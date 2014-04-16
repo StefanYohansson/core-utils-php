@@ -1,0 +1,15 @@
+{
+    "name": "stefanyohansson/core-utils-php",
+    "description": "Utils for php.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stefan Yohansson",
+            "email": "teeo_k3@hotmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": { "": "src/" }
+    }
+}
